@@ -12,4 +12,7 @@ C:\Repos\NetworkTool\obj\Debug\net9.0-windows\refint\NetworkTool.dll
 C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.pdb
 C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.genruntimeconfig.cache
 C:\Repos\NetworkTool\obj\Debug\net9.0-windows\ref\NetworkTool.dll
+<<<<<<< HEAD
 C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.sourcelink.json
+=======
+>>>>>>> 1ca2c80a2708e5d24429c3ec72aeda341a93ce54
