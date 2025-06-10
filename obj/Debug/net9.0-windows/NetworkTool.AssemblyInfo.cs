@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetworkTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a25c44a9f17373395cabe87494cb0f20c43ddc12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c4b6aded8c775b4d5d7b7a50c81aca14510c44")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetworkTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetworkTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
