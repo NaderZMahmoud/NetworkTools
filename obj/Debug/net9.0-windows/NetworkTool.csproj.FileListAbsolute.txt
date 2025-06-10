@@ -1,0 +1,14 @@
+C:\Repos\NetworkTool\bin\Debug\net9.0-windows\NetworkTool.exe
+C:\Repos\NetworkTool\bin\Debug\net9.0-windows\NetworkTool.deps.json
+C:\Repos\NetworkTool\bin\Debug\net9.0-windows\NetworkTool.runtimeconfig.json
+C:\Repos\NetworkTool\bin\Debug\net9.0-windows\NetworkTool.dll
+C:\Repos\NetworkTool\bin\Debug\net9.0-windows\NetworkTool.pdb
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.AssemblyInfoInputs.cache
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.AssemblyInfo.cs
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.csproj.CoreCompileInputs.cache
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.dll
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\refint\NetworkTool.dll
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.pdb
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\NetworkTool.genruntimeconfig.cache
+C:\Repos\NetworkTool\obj\Debug\net9.0-windows\ref\NetworkTool.dll
